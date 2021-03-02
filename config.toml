@@ -1,0 +1,4 @@
+baseURL = "https://celebratehomeyphui7.vercel.app"
+languageCode = "en-us"
+title = "Celebrity Home in Hollywood"
+theme = "hugo-theme-minos"
